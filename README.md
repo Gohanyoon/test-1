@@ -82,8 +82,8 @@ document.write(`현재 시간은 ${display} 입니다.`);
 
 [텍스트](http://www.naver.com, "네이버 홈페이지로 이동합니다.")
 
+# 이미지 추가하기
 
-
-
+![프로필 이미지](./windows.png)
 
 
