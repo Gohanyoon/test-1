@@ -78,3 +78,12 @@ document.write(`현재 시간은 ${display} 입니다.`);
 
 <http://www.naver.com>
 
+[네이버](http://www.naver.com)
+
+[텍스트](http://www.naver.com, "네이버 홈페이지로 이동합니다.")
+
+
+
+
+
+
